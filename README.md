@@ -25,9 +25,9 @@ Please refer to the original paper for a detailed description of the methodology
 
 This repository provides the R scripts and functions used to create a cluster classification of multiscale bespoke neighbourhoods delineated around 100 by 100 metre grid cells in Amsterdam using a Non-Negative Matrix Factorisation (NMF). 
 
-The approach is multidimensional, multiscalar, and longitudinal, focusing on neighbourhood classification using various socieconomic, demographic, and economic indicators across multiple time periods.
+The approach is multidimensional, multiscalar, and longitudinal, focusing on neighbourhood classification using various socioeconomic, demographic, and economic indicators across multiple time periods.
 
-The code is organised to facilitate reproducibility and transparency, enabling other researchers to replicate, adapt, or extend the analysis.
+The code is shared to facilitate reproducibility and transparency, enabling other researchers to replicate, adapt, or extend the analysis with the same or different data sources.
 
 ---
 
