@@ -247,19 +247,25 @@ This software is licensed under the [MIT License](https://opensource.org/license
 
 For questions or further information, please contact:
 
-- Ignacio Urria Yáñez, TU Delft [(i.a.urriayanez@tudelft.nl)](mailto:i.a.urriayanez@tudelft.nl)
+Ignacio Urria Yáñez - [i.a.urriayanez@tudelft.nl](mailto:i.a.urriayanez@tudelft.nl) 
+
+
+TU Delft, Faculty of Architecture and the Built Environment, Department of Urbanism, Urban Studies 
 
 ---
 
 ## 9. Citation
 
-If you use this code or analysis in your research, please cite the paper:
+**If you use this code or analysis in your research, please cite the paper:**
 
-Ignacio Urria, Ana Petrović, Maarten van Ham, David Manley.  
-"The spatio-temporal evolution of social inequalities in cities: a multidimensional, multiscalar and longitudinal approach for neighbourhood classification."  
-*Cities*, Volume 165, 2025, 106089.  
+Urria, I., Petrović, A., van Ham, M., & Manley, D. (2025). The spatio-temporal evolution of social inequalities in cities: a multidimensional, multiscalar and longitudinal approach for neighbourhood classification. Cities, 165, 106089.
 [https://doi.org/10.1016/j.cities.2025.106089](https://doi.org/10.1016/j.cities.2025.106089) 
 
+**And you can also cite the code repository:**
+
+Urria Yáñez, I., & Petrović, A. (2025). Code underlying the paper "The Spatio-Temporal Evolution of Social Inequalities in Cities: A Multidimensional, Multiscalar and Longitudinal Approach for Neighbourhood Classification" (Version 1) [Computer software]. 4TU.ResearchData. 
+
+[![DOI](https://data.4tu.nl/v3/datasets/f0b25cba-abbb-42c6-823a-422aad8c0721/doi-badge.svg)](https://doi.org/10.4121/f0b25cba-abbb-42c6-823a-422aad8c0721)
 
 ---
 
